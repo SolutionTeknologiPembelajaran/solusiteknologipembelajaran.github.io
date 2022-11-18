@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<widget xmlns="http://openajax.org/metadata" spec="1.0" name="sparkling1" version="1">
+
+<description type="text/html"><![CDATA[Widget Exported from Flash Professional]]></description>
+
+<category name="Flash Animation"/>
+<remarks>Compatible with: InDesign CC, Dreamweaver CC, Muse</remarks>
+<icon src="PosterImg_415.png" width="1280" height="720"/>
+<require type="other" src="sparkling.html"/>
+<content></content>
+
+<properties name="Properties">
+<property name="default-width" defaultValue="1280" hidden="true"/>
+<property name="default-height" defaultValue="720" hidden="true"/>
+<property name="resizable" defaultValue="false" hidden="true"/>
+<property name="centering" defaultValue="both" hidden="true"/>
+<property name="scaling" defaultValue="" hidden="true"/>
+<property name="html-page" defaultValue="sparkling.html" hidden="true"/>
+<property name="target-platform" defaultValue="htmlcanvas" hidden="true"/>
+<property name="created-in" defaultValue="Adobe Animate CC" hidden="true"/>
+</properties>
+
+</widget>
